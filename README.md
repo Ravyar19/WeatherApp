@@ -1,7 +1,7 @@
-### This project was created for practicing react-query
 
 
 # Getting Started with Create React App
+# This project was created for practicing react-query
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
